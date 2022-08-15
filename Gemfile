@@ -73,3 +73,5 @@ group :test do
 end
 
 gem 'bootstrap'
+
+gem 'rest-client', '~> 2.1'
